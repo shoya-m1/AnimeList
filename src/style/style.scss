@@ -1,0 +1,12 @@
+$dark: rgba(14, 14, 14, 1);
+$warning: #ffc107;
+$secondary: #6d6d6d;
+$primary: #1c1c1c;
+$h6-font-size: 15px;
+
+
+@import "bootstrap/scss/bootstrap";
+
+body {
+  background-color: $dark;
+}
